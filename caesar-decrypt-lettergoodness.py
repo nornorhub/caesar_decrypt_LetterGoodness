@@ -4,7 +4,7 @@
 # Then return the messages decrypted to the server,
 # taking care to ensure each message is split on to a newline
 #
-
+ 
 
 import socket
 import itertools
